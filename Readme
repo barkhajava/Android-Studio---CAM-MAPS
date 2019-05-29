@@ -1,0 +1,16 @@
+CS443---Android-Development---Cam-Maps
+Cam-Maps
+
+---------->Read Me<--------------
+
+-First Download the project from GitHub.
+
+-In Android Studio, use the "Import non-Android Studio project" or "Import Project" option.
+
+-Next select one of the sample directories that you downloaded from this repository.
+
+-If prompted for a gradle configuration accept the default settings.
+
+-Add your API key to the AndroidManifest.xml file.
+
+-Run the app from Android Studio using the emulator you desire
