@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <paths xmlns:android="http://schemas.android.com/apk/res/android">
+        <external-path android:name="barkha_pic"
+            android:path="Android/data/edu.umb.cs443/files/Pictures" />
+    </paths>
+</PreferenceScreen>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drop_down">
+        <item>Library</item>
+        <item>State Park</item>
+        <item>National Park</item>
+        <item>Museum</item>
+    </string-array>
+    <string name="app_name">HW3</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_text">OK</string>
+    <string name="button2_text">Continue</string>
+    <string name="button3_text">Click Picture</string>
+    <string name="button4_text">Open Gallery</string>
+    <string name="connection_error">Unable to load content. Check your network connection.</string>
+    <string name="xml_error">Error parsing XML.</string>
+    <string name="button1_text">View Map</string>
+
+</resources>
